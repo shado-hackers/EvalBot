@@ -8,3 +8,4 @@ spotdl
 youtube-search-python
 yt-dlp
 pillow
+selenium
